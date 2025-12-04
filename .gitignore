@@ -19,6 +19,7 @@ build/
 # OS
 .DS_Store
 Icon
+Icon?
 Thumbs.db
 
 # Output directories
